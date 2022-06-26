@@ -38,3 +38,4 @@ Thomas High School is clearly not one of the best performing schools in this set
 
 
 ## Summary
+All parts of the analysis were affected - math and reading scores were actually lower on average than what Thomas High School's data added into the mix, scores by school spending were slightly affected - although the trend was the same -; medium-sized schools still performed best, although the numbers were slightly adjusted, and charter schools still had better grades than district schools. Overall, since there was a lot of data to analyze, the academic dishonesty didn't affect overall stats to a crazy extent, only specific data for Thomas High School. 
